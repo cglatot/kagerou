@@ -151,7 +151,6 @@ const CONFIG_DEFAULT = {
     mch: 'rgb(0, 151, 167)', // Cyan 700
     rdm: 'rgb(233, 30, 99)', // Pink 500
     blu: 'rgb(0, 185, 247)', // Light Blue 500
-    pct: 'rgb(255, 255, 102)', // light yellow
     dnc: 'rgb(244, 143, 177)', // Pink 200
     sam: 'rgb(255, 202, 40)', // Amber 400
     whm: 'rgb(117, 117, 117)', // Gray 600
