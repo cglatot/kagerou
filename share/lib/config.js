@@ -144,8 +144,10 @@ const CONFIG_DEFAULT = {
     brd: 'rgb(158, 157, 36)', // Lime 800
     nin: 'rgb(211, 47, 47)', // Red 700 // 와! 시바! 진성! 닌자다!
     rpr: 'rgb(254, 179, 0)', // Amber 600
+    vpr: 'rgb(230, 100, 0)', // Amber 400
     smn: 'rgb(46, 125, 50)', // Green 800
     blm: 'rgb(126, 87, 194)', // Deep Purple 400
+    pct: 'rgb(100, 50, 150)', // Deep Purple 200
     mch: 'rgb(0, 151, 167)', // Cyan 700
     rdm: 'rgb(233, 30, 99)', // Pink 500
     blu: 'rgb(0, 185, 247)', // Light Blue 500
